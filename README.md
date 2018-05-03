@@ -1,2 +1,2 @@
 # CLESF.Clinical.Patient.Registry
-Capstone project involving design and implementation of a patient registry for a small clinic.
+University of Chicago Masters of Biomedical Informatics Capstone Project involving design and implementation of a patient registry for the Chicago Lower Extremity Surgical Foundation
